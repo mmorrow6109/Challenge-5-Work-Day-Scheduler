@@ -17,5 +17,6 @@ N/A
 - User can revisit the site and find their previous inputs saved in local storage
 
 ## Link to Live Application
+https://mmorrow6109.github.io/Challenge-5-Work-Day-Scheduler/
 
 ## Screenshots
