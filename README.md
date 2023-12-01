@@ -20,5 +20,5 @@ N/A
 https://mmorrow6109.github.io/Challenge-5-Work-Day-Scheduler/
 
 ## Screenshots
-img\Screenshot 2023-11-30 172614.png
-img\Screenshot 2023-11-30 172706.png
+![Alt text](<img/Screenshot 2023-11-30 172614.png>)
+![Alt text](<img/Screenshot 2023-11-30 172706.png>)
